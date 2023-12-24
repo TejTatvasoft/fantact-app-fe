@@ -1,0 +1,8 @@
+.login-parameters{
+    width: 450px;
+}
+
+.login-parameters .MuiFormControl-root{
+    width: 100% !important;
+    margin-bottom: 10px;
+}
